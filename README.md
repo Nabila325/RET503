@@ -2,8 +2,8 @@
 
 **Mata kuliah:** RET503 Computer Vision and Deep Learning – Pertemuan 3
 **Program Studi:** Teknologi Rekayasa Robotika, Politeknik Negeri Batam
-**Kelompok:** [ISI NAMA KELOMPOK]
-**Anggota:** [ISI NAMA & NIM ANGGOTA]
+**Nama: Nabila Maharani Syawitri**
+**NIM: 4222411015**
 
 ## 1. Ringkasan
 
