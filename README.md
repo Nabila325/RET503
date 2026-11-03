@@ -157,10 +157,3 @@ Anggaran per frame pada 15 FPS adalah ±67 ms (inferensi dialokasikan 35 ms). Ke
 - Model hanya mengenal dua kelas, sehingga untuk objek lain (tangan, meja kosong) model tetap memilih salah satu kelas. Solusi: tambah kelas "latar" atau gunakan deteksi objek (YOLO, minggu 6).
 - Latensi diukur di CPU laptop, bukan di komputer robot.
 
-## 10. Referensi
-
-- Materi RET503 Pertemuan 3 – Transfer Learning dan Fine-Tuning Model Visi, Politeknik Negeri Batam
-- Yosinski dkk. (2014), *How transferable are features in deep neural networks?*
-- Zeiler & Fergus (2014), *Visualizing and Understanding Convolutional Networks*
-- Howard & Gugger (2020), *fastai*
-- Dokumentasi torchvision (ResNet-18, MobileNetV3)
